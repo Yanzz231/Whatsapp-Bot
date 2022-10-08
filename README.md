@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Yanzz231/Whatsapp-Bot/master/lib/ex.png" width="550" />
 </p>
  
-<p align="center">Official Yanz - RestApi.</p>
+<p align="center">Official Yanz - Bot.</p>
 
 ## Installation For Window/RDP
 
@@ -26,7 +26,7 @@ npm install
 
 ## Disclaimer
 
-I am not affiliated with Yanz-Restapi, I made this project for educational purposes only.
+I am not affiliated with Yanz-Bot, I made this project for educational purposes only.
 
 If you like using this website, donate to them to keep their servers up and running.
 
