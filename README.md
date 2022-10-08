@@ -1,54 +1,19 @@
-# CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
-
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
-
-Best Regards. Hisoka
-
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
-
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+<h1>Example 💻</h1>
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+  <img src="https://raw.githubusercontent.com/Yanzz231/Yanz-Restapi/master/lib/ex.png" width="550" />
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+ 
+<p align="center">Official Yanz - RestApi.</p>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
-
-
-## UNTUK PENGGUNA WINDOWS/RDP
-
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-
+## Installation For Window/RDP
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
-npm install
+npm i
+node index.js
 ```
 
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
-
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
-
-
-## FOR TERMUX/UBUNTU/SSH USER
-
+## Installation For Termux/UBUNTU/SSH USER
 ```bash
 apt update && apt upgrade
 apt install git -y
@@ -59,43 +24,16 @@ cd Hisoka-Morou
 npm install
 ```
 
-## RECOMMENDED INSTALL ON TERMUX
+## Disclaimer
 
-```bash
-pkg install yarn
-yarn
-```
+I am not affiliated with Yanz-Restapi, I made this project for educational purposes only.
 
-## Installing
-```bash
-$ node .
-```
+If you like using this website, donate to them to keep their servers up and running.
 
-## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
+## License
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
+This project is under the [Yanzz](https://github.com/Yanzz231) And [Yanzz](https://github.com/RDTUTORIAL) license. 
 
+## Helper 🤖
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-
-```Thanks to all who have participated in the development of this script```
-
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+Just DM me with instagram [Yanz](https://www.instagram.com/iyanmikasa/)
