@@ -1,0 +1,357 @@
+[
+  {
+    "soal": "5 x 5 =",
+    "jawaban": "25"
+  },
+  {
+    "soal": "6 x 5 =",
+    "jawaban": "30"
+  },
+  {
+    "soal": "1 + 5 x 6 =",
+    "jawaban": "31"
+  },
+  {
+    "soal": "100 + 2 x 3 =",
+    "jawaban": "500"
+  },
+  {
+    "soal": "60 + 20 x 1 =",
+    "jawaban": "80"
+  },
+  {
+    "soal": "25 + 25 x 2 =",
+    "jawaban": "75"
+  },
+  {
+    "soal": "120 - 120 x 2 =",
+    "jawaban": "120"
+  },
+  {
+    "soal": "394 + 435 =",
+    "jawaban": "829"
+  },
+  {
+    "soal": "600 + 600 =",
+    "jawaban": "1200"
+  },
+  {
+    "soal": "600 + 100 x 2 =",
+    "jawaban": "800"
+  },
+  {
+    "soal": "2 x 2 + 5 =",
+    "jawaban": "9"
+  },
+  {
+    "soal": "200 - 100 x 2 =",
+    "jawaban": "0"
+  },
+  {
+    "soal": "300 - 200 + 50 =",
+    "jawaban": "150"
+  },
+  {
+    "soal": "200 + 30 x 2 =",
+    "jawaban": "260"
+  },
+  {
+    "soal": "5 : 5 + 1 =",
+    "jawaban": "2"
+  },
+  {
+    "soal": "20 : 4 x 2 =",
+    "jawaban": "10"
+  },
+  {
+    "soal": "10 - 2 x 2 =",
+    "jawaban": "6"
+  },
+  {
+    "soal": "200 + 100 x 3 =",
+    "jawaban": "500"
+  },
+  {
+    "soal": "2 + 5 x 2 =",
+    "jawaban": "12"
+  },
+  {
+    "soal": "2 : 2 x 2 =",
+    "jawaban": "2"
+  },
+  {
+    "soal": "2 + 4 : 2 =",
+    "jawaban": "4"
+  },
+  {
+    "soal": "100 : 20 x 4 =",
+    "jawaban": "20"
+  },
+  {
+    "soal": "1 + 1 x 5 =",
+    "jawaban": "6"
+  },
+  {
+    "soal": "20 + 4 x 5 + 2 =",
+    "jawaban": "42"
+  },
+  {
+    "soal": "20 + 2 : 2 + 20 =",
+    "jawaban": "41"
+  },
+  {
+    "soal": "20 + 10 + 20 =",
+    "jawaban": "50"
+  },
+  {
+    "soal": "1000 : 500 x 20 =",
+    "jawaban": "40"
+  },
+  {
+    "soal": "4000 : 200 + 20 =",
+    "jawaban": "40"
+  },
+  {
+    "soal": "2000 : 2 x 2 =",
+    "jawaban": "2000"
+  },
+  {
+    "soal": "200 : 5 : 5 =",
+    "jawaban": "8"
+  },
+  {
+    "soal": "100 : 4 x 2 =",
+    "jawaban": "50"
+  },
+  {
+    "soal": "500 : 4 x 5 + 2 =",
+    "jawaban": "627"
+  },
+  {
+    "soal": "900 x 4 : 4 - 165 =",
+    "jawaban": "735"
+  },
+  {
+    "soal": "20 x 20 : 10 + 30 =",
+    "jawaban": "70"
+  },
+  {
+    "soal": "20 + 20 =",
+    "jawaban": "40"
+  },
+  {
+    "soal": "60 : 2 + 30 =",
+    "jawaban": "60"
+  },
+  {
+    "soal": "30 x 2 + 4 - 50 =",
+    "jawaban": "14"
+  },
+  {
+    "soal": "20 x 6 x 9 : 2 =",
+    "jawaban": "540"
+  },
+  {
+    "soal": "20 x 40 x 9 : 5 =",
+    "jawaban": "1440"
+  },
+  {
+    "soal": "40 + 40 - 20 =",
+    "jawaban": "60"
+  },
+  {
+    "soal": "20 : 5 x 7 =",
+    "jawaban": "28"
+  },
+  {
+    "soal": "50 x 4 : 2 =",
+    "jawaban": "100"
+  },
+  {
+    "soal": "400 : 5 x 7 =",
+    "jawaban": "560"
+  },
+  {
+    "soal": "1 + 1 x 1 =",
+    "jawaban": "2"
+  },
+  {
+    "soal": "2 + 2 x 2 =",
+    "jawaban": "6"
+  },
+  {
+    "soal": "200 x 2 : 2 =",
+    "jawaban": "200"
+  },
+  {
+    "soal": "2 + 6 * 2 =",
+    "jawaban": "14"
+  },
+  {
+    "soal": "20 * 2 + 20 =",
+    "jawaban": "60"
+  },
+  {
+    "soal": "Untuk mengerjakan 1 unit rumah dibutuhkan waktu 36 hari dengan 12 tenaga kerja, Berapa waktu akan\ndihabiskan bila menggunakan 24 orang tenaga kerja?",
+    "jawaban": "18"
+  },
+  {
+    "soal": "Pak RW mendapat sumbangan 8 karung beras, Tiap karung beratnya 50 kg, Beras dibagikan kepada 20 orang\nwarga, Tiap warga memperoleh beras sebanyak",
+    "jawaban": "20"
+  },
+  {
+    "soal": "2 4 6 8 10 _",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Dasawarsa + 3 lustrum – 1 windu = __ Tahun",
+    "jawaban": "17"
+  },
+  {
+    "soal": "Terdapat sebuah gudang yang di dalamnya berisi 500 kg terigu, 4,5 ton beras dan 3 kwintal sagu, Berapa jumlah barang yang ada di dalam gudang tersebut?",
+    "jawaban": "5300"
+  },
+  {
+    "soal": "Jika C = 1/2 D, maka D + 2 =",
+    "jawaban": "2C + 2"
+  },
+  {
+    "soal": "Di tahun 2012 ini, umur Kakek genap 8 windu, Tahun berapakah kakek lahir? ",
+    "jawaban": "1948"
+  },
+  {
+    "soal": "5² =",
+    "jawaban": "25"
+  },
+  {
+    "soal": "Angka 225 merupakan hasil dari perpangkatan",
+    "jawaban": "15²"
+  },
+  {
+    "soal": "Ada 10 pena Dan 7 pensil biru, Persentase dari pensil biru adalah",
+    "jawaban": "70%"
+  },
+  {
+    "soal": "Fraksi dari 0,50, jika dikonversi pada fraksi biasa, maka hasilnya adalah",
+    "jawaban": "1,2"
+  },
+  {
+    "soal": "Bentuk desimal 1/8 adalah",
+    "jawaban": "0125"
+  },
+  {
+    "soal": "Bentuk fraksi campuran dari 46/7 adalah",
+    "jawaban": "6 4/7"
+  },
+  {
+    "soal": "Bentuk persen 4/20 adalah",
+    "jawaban": "20%"
+  },
+  {
+    "soal": "Tentukanlah angka dari 2 1/3 + 4 3/5",
+    "jawaban": "6 14/15"
+  },
+  {
+    "soal": "Termometer Celsius ini menunjukkan angka 40 derajat, Termometer Fahrenheit akan menunjukkan angka __ derajat",
+    "jawaban": "104"
+  },
+  {
+    "soal": "Sebuah truk melaju sangat kencang dengan kecepatan rata-rata mencapai 80 km / jam, Pada saat truk berjalan selama 3 jam 30 menit, maka jarak yang akan ditempuh adalah __ km",
+    "jawaban": "280"
+  },
+  {
+    "soal": "Hasil dari 27² adalah",
+    "jawaban": "729"
+  },
+  {
+    "soal": "Bilangan 576 adalah hasil dari perpangkatan angka",
+    "jawaban": "24"
+  },
+  {
+    "soal": "17² + 31² – 28²",
+    "jawaban": "466"
+  },
+  {
+    "soal": "√ 625 merupakan hasil dari perpangkatan atas bilangan",
+    "jawaban": "25"
+  },
+  {
+    "soal": "Hasil perpangkatan 28² adalah",
+    "jawaban": "784"
+  },
+  {
+    "soal": "Hasil perpangkatan 2² adalah",
+    "jawaban": "4"
+  },
+  {
+    "soal": "√ 196 x √ 576: √ 64 =",
+    "jawaban": "42"
+  },
+  {
+    "soal": "Hasil perpangkatan 13² adalah",
+    "jawaban": "169"
+  },
+  {
+    "soal": "Hasil perpangkatan 26² adalah",
+    "jawaban": "676"
+  },
+  {
+    "soal": "Angka yang bernilai puluhan atas bilangan 123 ini adalah",
+    "jawaban": "2"
+  },
+  {
+    "soal": "Angka yang bernilai puluhan atas bilangan 242 ini adalah",
+    "jawaban": "4"
+  },
+  {
+    "soal": "8 x 5 =",
+    "jawaban": "40"
+  },
+  {
+    "soal": "Balon yang jatuh dari atas ketinggian 50 meter, Diberikan fungsi h = -15t2 + 60, h merupakan ketinggian balon setelah t yang merupakan detik, Balon akan jatuh ke tanah setelah t =",
+    "jawaban": "2 detik"
+  },
+  {
+    "soal": "Hasil perhitungan 35 : (-5) + 10 – (-3) ialah",
+    "jawaban": "6"
+  },
+  {
+    "soal": "Faktorisasi prima atas bilangan 2,450 ialah",
+    "jawaban": "2 x 5 x 7"
+  },
+  {
+    "soal": "FPB bilangan 72, 96 dengan 132 ialah",
+    "jawaban": "12"
+  },
+  {
+    "soal": "Berat rata-rata 9 siswa dengan Doni adalah 36,85 kg, Jika berat rata-rata 9 orang siswa ialah 36,5 kg, maka berat dari Doni ialah = ___ kg",
+    "jawaban": "40"
+  },
+  {
+    "soal": "Data dari nilai ulangan matematika dengan metode tertulis : 70, 50, 80, 70, 50, 60, 70, 50, 70, dan 60, Modus dari nilai ulangan tersebut adalah",
+    "jawaban": "70"
+  },
+  {
+    "soal": "Keliling dari lingkaran yang memiliki diameter 42 cm adalah __ cm",
+    "jawaban": "132"
+  },
+  {
+    "soal": "Hasil dari perpangkatan tiga atas 12 adalah",
+    "jawaban": "1,728"
+  },
+  {
+    "soal": "KPK dari 16, 18, dan 32 ialah",
+    "jawaban": "288"
+  },
+  {
+    "soal": "FPB dan KPK bilangan 60, 72 serta 48 adalah",
+    "jawaban": "12 dan 720"
+  },
+  {
+    "soal": "Berapa hasil akhir atas perhitungan 2 : 3 + 12 x 43 ialah",
+    "jawaban": "263"
+  },
+  {
+    "soal": ""
+  }
+]

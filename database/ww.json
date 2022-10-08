@@ -1,0 +1,76 @@
+[
+  {
+    "id": "120363037656673082@g.us",
+    "status": false,
+    "iswin": null,
+    "cooldown": null,
+    "day": 0,
+    "time": "awal",
+    "player": [
+      {
+        "id": "62895617056310@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6287856053716@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6282177800211@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6285947692120@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6289689560996@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      },
+      {
+        "id": "6287849522154@s.whatsapp.net",
+        "sesi": "120363037656673082@g.us",
+        "status": false,
+        "role": false,
+        "effect": [],
+        "vote": 0,
+        "isdead": false,
+        "isvote": false
+      }
+    ],
+    "dead": [],
+    "voting": false,
+    "seer": false,
+    "guradian": []
+  }
+]

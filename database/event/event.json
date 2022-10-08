@@ -1,0 +1,20 @@
+{
+  "buy": {
+    "status": "unactive"
+  },
+  "sell": {
+    "status": "unactive"
+  },
+  "level": {
+    "status": "active"
+  },
+  "carnival": {
+    "status": "active"
+  },
+  "work": {
+    "status": "active"
+  },
+  "xp": {
+    "status": "active"
+  }
+}

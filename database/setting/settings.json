@@ -1,0 +1,27 @@
+{
+  "Owner": "62895617056310@s.whatsapp.net",
+  "name": "Yanz Bot",
+  "chrome": "C://Program Files//Google//Chrome//Application//chrome.exe",
+  "image": "https://i.ibb.co/4PXkCxF/5ec5dec802ac.jpg",
+  "prefix": ".",
+  "Sesi": [],
+  "Vote": {
+    "Max": 10,
+    "Expired": 10
+  },
+  "Grup": {
+    "Expired": 43200
+  },
+  "Tebak_Gambar": {
+    "Max": 60,
+    "Time": 60
+  },
+  "toggle": {
+    "Time": 1
+  },
+  "clear": {
+    "clearTime": 1651507939000,
+    "maintence": false,
+    "timeMaintence": null
+  }
+}
