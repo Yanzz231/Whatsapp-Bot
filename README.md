@@ -1,7 +1,7 @@
 <h1>Example 💻</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yanzz231/Whatsapp-Bot/master/lib/ex.png" width="550" />
+  <img src="https://raw.githubusercontent.com/Yanzz231/Whatsapp-Bot/master/lib/ex.PNG" width="550" />
 </p>
  
 <p align="center">Official Yanz - Bot.</p>
