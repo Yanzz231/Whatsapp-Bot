@@ -1,5 +1,5 @@
 {
-  "name": "hisoka-morou",
+  "name": "yanz-bot",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
+    "termux", 
     "whatsapp",
     "2021",
     "wabase-md",
@@ -97,10 +97,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/Yanzz231/Yanz-WhatsappBot.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/Yanzz231/Yanz-WhatsappBot/issues"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/Yanzz231/Yanz-WhatsappBot#readme"
 }
