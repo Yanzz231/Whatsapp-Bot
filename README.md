@@ -20,7 +20,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/Yanzz231/Whatsapp-Bot
-cd Hisoka-Morou
+cd Whatsapp-Bot
 npm install
 ```
 
